@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+
+.title{
+    text-align: center;
+    color: white;
+}
+#logoImage{
+    margin-top: 5%;
+    margin-left: 35%;
+}
